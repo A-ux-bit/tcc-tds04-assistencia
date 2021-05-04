@@ -11,6 +11,7 @@ const btnRestart = document.querySelector('#btn-restart');
 const iptMinutos = document.querySelector('#ipt-minutos');
 const iptSegundos = document.querySelector('#ipt-segundos');
 const loginpagina = document.querySelector('#login-pag');
+const iptnomeatv = document.querySelector('#ipt-nomeatv');
 
 let intervaloAtual = null;
 

@@ -19,7 +19,7 @@
                 <input type="text" name= "senha" placeholder="Senha"/>
                 <input type="text" name= "email" placeholder="E-mail"/>
                 <button type="submit">Criar nova conta</button>
-                <p class="mensagem">Já tem uma conta? <a href="index.php">Login</a> </p>
+                <p class="mensagem">Já tem uma conta? <a href='index.php'>Login</a> </p>
                 </fieldset>
             </form>
 
@@ -29,7 +29,7 @@
                 <input type="text" name="login" required placeholder="Digite o seu usuário"/>
                 <input type="password" name="senha" required placeholder="Digite a sua senha"/>
                 <button type="submit">Login</button>
-                <p class="mensagem">Não tem uma conta? <a href="cadusuario.php">Crie agora!</a> </p>
+                <p class="mensagem">Não tem uma conta? <a href='cadusuario.php'>Crie agora!</a> </p>
                 </fieldset>
             </form>
         </div>
