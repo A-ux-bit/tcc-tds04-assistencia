@@ -9,6 +9,8 @@ tendo funções além do sistema pomodoro, é possível também visualizar as at
 Os arquivos serão disponíveis no repositório entre aplicativo, documentação e codificação. Os arquivos são importantes para localizar o desenvolvimento
 do projeto. No momento ainda há processo de desenvolvimento.
 
-
+## Guia de ajuda
+Para entrar no aplicativo é preciso criar conta para fazer login, sendo necessário as informações pessoais como nome, email e também criar a senha para 
+comprometer a segurança, caso não seja invadido pelo terceiro.
 ### Membros-TDS04
 - Alex Horie  João Gabriel  Fernando Honda   Leonardo Santos
