@@ -22,4 +22,4 @@ para todos usuários; há adição de menu para vizualizar os usuários cadastra
 o administrador ou analista terá direito de conectar, com a senha e nome exclusivamente do dono.
 
 ### Membros-TDS04
-- Alex Horie  João Gabriel  Fernando Honda   Leonardo Santos
+- Alex Horie - João Gabriel - Fernando Honda - Leonardo Santos
