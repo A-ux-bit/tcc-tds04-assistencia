@@ -21,5 +21,9 @@ Na tela do site está presente o timer e botões servindo em seguintes funções
 para todos usuários; há adição de menu para vizualizar os usuários cadastrados, tendo sistema crud pra controlar as informações registradas. Neste menu apenas 
 o administrador ou analista terá direito de conectar, com a senha e nome exclusivamente do dono.
 
+### Fonte de estudos/créditos
+Codificação e sons - https://github.com/naomi-homma/Pomodoro_Timer
+Estrutura de CRUD - https://www.soengsouy.com/
+
 ### Membros-TDS04
 - Alex Horie - João Gabriel - Fernando Honda - Leonardo Santos
